@@ -1,0 +1,16 @@
+.{
+    .name = "zigup",
+    .version = "0.0.1",
+
+    .paths = .{
+        "LICENSE",
+        "README.md",
+        "build.zig",
+        "build.zig.zon",
+        "fixdeletetree.zig",
+        "test.zig",
+        "win32exelink.zig",
+        "zigup.zig",
+        "zip.zig",
+    },
+}
